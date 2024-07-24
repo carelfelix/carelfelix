@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carelfelix
 - 👀 I’m interested in Front-end technology
-- 🌱 I’m currently learning HUGO
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Superstar
 - 📫 How to reach me carelfelix@gmail.com
 
