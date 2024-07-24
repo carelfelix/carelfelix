@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Superstar
 - 📫 How to reach me carelfelix@gmail.com
 
-<!---
-carelfelix/carelfelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <br>
+  <a href="https://github.com/grikomsn/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+  <p>One moment please...</p>
+  <br>
+</a>
